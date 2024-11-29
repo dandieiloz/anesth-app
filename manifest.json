@@ -1,0 +1,34 @@
+{
+  "short_name": "AnesthesiaApp",
+  "name": "Anesthesiology Department App",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#003f88",
+  "background_color": "#ffffff",
+  "screenshots": [
+    {
+      "src": "screenshot-1.png",
+      "sizes": "800x600",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot-2.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
