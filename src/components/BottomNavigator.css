@@ -1,0 +1,21 @@
+.bottom-navigator {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #ffffff;
+  border-top: 1px solid #ccc;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+}
+
+.nav-item.active {
+  color: #007bff;
+  font-weight: bold;
+}

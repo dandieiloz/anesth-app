@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Header from './components/Header';
+import BottomNavigator from './components/BottomNavigator';
+import PhoneBook from './pages/PhoneBook';
+import Announcements from './pages/Announcements';
+import Protocols from './pages/Protocols';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="app">
+        <Header />
+        <Routes>
+          <Route path="/phonebook" element={<PhoneBook />} />
+          <Route path="/announcements" element={<Announcements />} />
+          <Route path="/protocols" element={<Protocols />} />
+          <Route path="/" element={<PhoneBook />} /> {/* Default route */}
+        </Routes>
+        <BottomNavigator />
+      </div>
+    </Router>
   );
-}
+};
 
 export default App;
