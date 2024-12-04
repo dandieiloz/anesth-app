@@ -3,7 +3,7 @@ import { Typography, List, ListItem, Link } from "@mui/material";
 
 const Protocols = () => {
   const protocols = [
-    { name: "Protocol A", link: "/protocols/protocol-a.pdf" },
+    { name: "Trom helper", link: "https://notebooklm.google.com/notebook/055cc480-67d7-4ad0-acc6-b9ab817748d2" },
     { name: "Protocol B", link: "/protocols/protocol-b.pdf" },
     { name: "Protocol C", link: "/protocols/protocol-c.docx" },
   ];

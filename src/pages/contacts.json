@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Alison Cohen Seguros Y Pensia",
+    "phone": "+972 54-805-8097",
+    "department": "Alison Cohen",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Dr. Hila Shmilovich",
+    "phone": "+972 50-880-7207",
+    "department": "Surgery A HaSharon ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Dr. Michael Gorevich",
+    "phone": "+972 54-229-0712",
+    "department": "Transplantation ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Dr. Ran Brauner",
+    "phone": "+972 54-524-4400",
+    "department": "Neuroangiographist RMC ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Leor Perl",
+    "phone": "+972 54-955-8228",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Michal Cohen",
+    "phone": "+972 54-253-3675",
+    "department": "Gastro ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Risan Paz",
+    "phone": "+972 54-308-4411",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "Tal Segev",
+    "phone": "+972 54-215-8006",
+    "department": "Vascular ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אבי בן הרוש",
+    "phone": "+972 50-558-9013",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אבי נפתג׳י",
+    "phone": "+972 52-705-2727",
+    "department": "סניטר נשים ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אביב דורון (רכזת שכר משאבי אנוש)",
+    "phone": "+972 3-937-7667",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אביב משאבי אנוש בילינסון",
+    "phone": "+972 3-937-7667",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אביב משאבי אנוש",
+    "phone": "+972 3-937-7667",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אהוד שיינברג  ד\"ר",
+    "phone": "+972 54-635-8844",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אהוד שיינברג ד\"ר",
+    "phone": "+972 54-635-8844",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אולגה יספקינה (כירורגיה )",
+    "phone": "+972 58-490-1277",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "און רוזן גניקולוגיה",
+    "phone": "+972 54-429-9100",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אורטופד*אלכס*חמודיס",
+    "phone": "+972 54-800-6318",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "איליה בינקין (אח אחראי חדר ניתוח קומה 4)",
+    "phone": "+972 50-406-5997",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אילן שרייאר",
+    "phone": "+972 50-465-0055",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אילת ספירשטיין ד\"ר",
+    "phone": "+972 50-855-0018",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "איריס אוסטפלד א התמחות בילינסון",
+    "phone": "+972 50-406-5569",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "איריס אוסטפלד ועדת התמחות",
+    "phone": "+972 50-406-5569",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "איריס אוסטפלד",
+    "phone": "+972 50-406-5569",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אלי רוזנבאום",
+    "phone": "+972 50-857-3854",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אלכס קובשינר אח קומה 4",
+    "phone": "+972 52-372-8034",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אפרת עוס פרסונל",
+    "phone": "+972 50-406-5130",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אריק ט. הרדמה",
+    "phone": "+972 54-773-8362",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "אריק טכנאי הרדמה בלינסון",
+    "phone": "+972 54-773-8362",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ארתור טכנאי הרדמה",
+    "phone": "+972 52-484-8812",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "בילי גסמן",
+    "phone": "+972 52-674-2524",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "בנימין שחור",
+    "phone": "+972 54-397-8547",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "בסאם בשארה (כלי דם)",
+    "phone": "+972 50-406-5553",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ברוניה קלבריסקי",
+    "phone": "+972 54-594-0116",
+    "department": "בית מרקחת בילינסון",
+    "role": "Sanitar"
+  },
+  {
+    "name": "גיא רווה",
+    "phone": "+972 54-553-6362",
+    "department": "כירורג ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "גליה ספקטור מומחית קרישה בילינסון",
+    "phone": "+972 50-857-3033",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "גרג טרייטל אח ניתוחי חזה",
+    "phone": "+972 52-325-4086",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דין עד-אל",
+    "phone": "+972 50-785-4056",
+    "department": "פלסטיקה",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דני גורפיל",
+    "phone": "+972 52-292-6894",
+    "department": "לב חזה יחידה ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר אופיר מייליק",
+    "phone": "+972 54-622-6363",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד\"ר איריס מוצפי",
+    "phone": "+972 54-645-4154",
+    "department": "ניתוחי לב חזה בילינסון ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד\"ר אלון בורג",
+    "phone": "+972 54-485-4248",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר בורג",
+    "phone": "+972 54-485-2248",
+    "department": "אורטופד ספורת בילינסון ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד\"ר דניאל לנדא",
+    "phone": "+972 50-225-6095",
+    "department": "טיפול נמרץ בילינסון ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר דניאל נשיא",
+    "phone": "+972 52-835-0203",
+    "department": "Obs&Gyn RMC",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר טלי שאלתיאל",
+    "phone": "+972 54-532-2454",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד\"ר יוסי לביב נוירוכירורגיה",
+    "phone": "+972 52-294-8638",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר מור נוירוכירורגיה",
+    "phone": "+972 52-884-7659",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר קרן כהן פלסטיקה המרה מגדרית",
+    "phone": "+972 52-836-3939",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר ריסן כלי דם",
+    "phone": "+972 54-308-4411",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר*אילן*ריכטר*פנ*א",
+    "phone": "+972 54-533-3273",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר*דרור*פה*ולסת",
+    "phone": "+972 54-581-5842",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר אולגה כירורגיה בילינסון",
+    "phone": "+972 58-490-1277",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר גוגול אלכסנדר הרדמה",
+    "phone": "+972 50-632-6001",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר גיא רווה",
+    "phone": "+972 54-553-6362",
+    "department": "כירורג בילינסון ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר דאוד שטרית נוירוכירורגיה",
+    "phone": "+972 50-346-3740",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר דנה פלג כירורגיה",
+    "phone": "+972 54-734-9741",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר דניס פושקוב נוירוכירורגיה",
+    "phone": "+972 54-210-3044",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר המבורגר אורתופדיה",
+    "phone": "+972 54-546-2469",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר יעקב לוינגר הרדמה",
+    "phone": "+972 53-462-6694",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר מוחמד חמאיסי",
+    "phone": "+972 54-399-8271",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר מוחמד עבאס כיר.",
+    "phone": "+972 52-521-6029",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר מריה ויטנברג אורתופדיה בילינסון",
+    "phone": "+972 54-314-0990",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר מריה ויטנברג אורתופדיה",
+    "phone": "+972 54-314-0990",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר ניר צור אא״ג",
+    "phone": "+972 52-890-7043",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר סורין יורדש",
+    "phone": "+972 53-339-2039",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ד״ר פיסחביץ׳ ריאות בילינסון",
+    "phone": "+972 58-795-8507",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "הילה שמילוביץ",
+    "phone": "+972 50-880-7207",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ורוניקה התאוששות",
+    "phone": "+972 54-579-7410",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ז׳נה גרשטיין מזכירה מחליפה בהרדמה",
+    "phone": "+972 54-696-0707",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "חופית",
+    "phone": "+972 52-882-2958",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "טל לאוריה",
+    "phone": "+972 54-492-7265",
+    "department": "אורטופד ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "טל מייזל",
+    "phone": "+972 50-406-5649",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "טל פרנקיל (אורטופדיה)",
+    "phone": "+972 54-438-0190",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "טל פרנקל",
+    "phone": "+972 54-438-0190",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "יומן נוכחות בילינסון (דניאל קלמן)",
+    "phone": "+972 3-937-7516",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "יוני מנדל",
+    "phone": "+972 52-656-3231",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "יעל פפרמן בכירה כירורגיה",
+    "phone": "+972 54-433-0337",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "יעקב רומננקו השרון",
+    "phone": "+972 52-736-0490",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "יצחייק",
+    "phone": "+972 50-894-6921",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ליאור פרל",
+    "phone": "+972 54-955-8228",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ליאן אורית סעדה (מזכירה פנימית ב/הרדמה)",
+    "phone": "0 54-790-5370",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ליסה קופר גריאט",
+    "phone": "+972 52-830-4962",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מאיה סקומורובסקי מרדימה השרון",
+    "phone": "+972 53-398-6431",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מוחמד ט הרדמה",
+    "phone": "+972 54-867-2276",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מוחמד טכנאי הרדמה",
+    "phone": "+972 54-867-2276",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מוניות רבין חדשvip",
+    "phone": "+972 8-997-9070",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מור נוירוכירורגיה",
+    "phone": "+972 52-884-7659",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מחסן בגדים בילינסון",
+    "phone": "+972 3-937-6041",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מיכאל גורביץ' Gurevich",
+    "phone": "+972 54-229-0712",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מיכאל סגל",
+    "phone": "+972 52-371-5110",
+    "department": "כירורגיה שניידר ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מיכל כהן",
+    "phone": "+972 54-253-3675",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מירב רוקח",
+    "phone": "+972 52-666-7265",
+    "department": "בית חזה",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מרכזייה בילינסון",
+    "phone": "+972 3-937-7377",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "מרפאה תעסוקתית בלינסון",
+    "phone": "+972 3-937-7442",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "נטע תמם",
+    "phone": "+972 50-793-4586",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ניר צור אאג בילינסון",
+    "phone": "+972 52-890-7043",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "נעמה טכנאית הרדמה",
+    "phone": "+972 52-421-3863",
+    "department": "null",
+    "role": "Sanitar"
+  },
+  {
+    "name": "נעמה לוי בילינסון",
+    "phone": "+972 52-421-3863",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עדי חיים טכנאית הרדמה בילינסון",
+    "phone": "+972 52-455-3241",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עדי טכנאית הרדמה",
+    "phone": "+972 52-455-3241",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עדי קארול - טכנאית הרדמה",
+    "phone": "+972 52-455-3241",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עינת הלברשטם",
+    "phone": "+972 54-885-7435",
+    "department": "טפנץ  בלינסון",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עינת הלבשטרום טפנ״צ",
+    "phone": "+972 54-885-7435",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "עלא מלחם",
+    "phone": "+972 52-426-2737",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ערן שרון",
+    "phone": "+972 50-406-5436",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "צבי סגל מילואים",
+    "phone": "+972 52-398-6777",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "צבי סגל",
+    "phone": "+972 54-586-1067",
+    "department": "פלסטיקאי ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "צביה ט. הרדמה",
+    "phone": "+972 54-307-1516",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "צביה טכנאית הרדמה",
+    "phone": "+972 54-307-1516",
+    "department": "Anesthesia Technican ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "צילה טכנאית הרדמה",
+    "phone": "+972 53-423-1783",
+    "department": "null",
+    "role": "Sanitar"
+  },
+  {
+    "name": "קדמון אודי (קוצבים לב)",
+    "phone": "+972 58-555-9007",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "קרן טכנאית הרדמה",
+    "phone": "+972 53-280-2046",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "רוחמה טכנאית הרדמה",
+    "phone": "+972 50-716-1507",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "רוני הבית הלבן",
+    "phone": "+972 54-399-7390",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "ריסן כלי דם",
+    "phone": "+972 54-308-4411",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "רעות ביטון",
+    "phone": "+972 52-439-7923",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שדות פרוף",
+    "phone": "+972 54-222-2021",
+    "department": "כירורגיה ",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שייאל ברקוביץ",
+    "phone": "+972 54-533-1802",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שירית",
+    "phone": "+972 54-538-9240",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שמוליק קרדיולוג",
+    "phone": "+972 53-420-0968",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שני טכנאית הרדמה בילינסון",
+    "phone": "+972 55-666-2874",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "שני שחר טכנאית הרדמה",
+    "phone": "+972 55-666-2874",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "תורן כירורגית לב-חזה 1",
+    "phone": "+972 50-406-5353",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "תורן כירורגית לב-חזה 2",
+    "phone": "+972 50-406-5352",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "תורן קרדיולוגיה בילינסון RMC",
+    "phone": "+972 3-937-5302",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "תרגום שפות משרד הבריאות",
+    "phone": "*5144",
+    "department": "Unknown",
+    "role": "Sanitar"
+  },
+  {
+    "name": "דר מנסור כירורגית ב",
+    "phone": "+972 52-595-0018",
+    "department": "Unknown",
+    "role": "Sanitar"
+  }
+]

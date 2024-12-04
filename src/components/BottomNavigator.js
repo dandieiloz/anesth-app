@@ -1,9 +1,11 @@
+// BottomNavigator.js
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { BottomNavigation, BottomNavigationAction } from "@mui/material";
 import PhoneIcon from "@mui/icons-material/Phone";
 import AnnouncementIcon from "@mui/icons-material/Campaign";
 import ProtocolIcon from "@mui/icons-material/Article";
+import ScheduleIcon from "@mui/icons-material/Event";
 
 const BottomNavigator = () => {
   const [value, setValue] = React.useState(0);
@@ -48,6 +50,15 @@ const BottomNavigator = () => {
         to="/protocols"
         style={{
           color: value === 2 ? "white" : "#87ceeb",
+        }}
+      />
+      <BottomNavigationAction
+        label="Work Schedule"
+        icon={<ScheduleIcon style={{ color: "white" }} />}
+        component={NavLink}
+        to="/work-schedule"
+        style={{
+          color: value === 3 ? "white" : "#87ceeb",
         }}
       />
     </BottomNavigation>

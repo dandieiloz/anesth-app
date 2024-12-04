@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import contactsData from "./contacts.json";
 import {
   List,
   ListItem,
@@ -12,14 +13,6 @@ import NurseIcon from "@mui/icons-material/FaceRetouchingNatural";
 import TrainIcon from "@mui/icons-material/Train";
 
 const PhoneBook = () => {
-  const contacts = [
-    { name: "Dr. Alice Smith", phone: "123-456-7890", department: "Orthopedics", role: "Dr." },
-    { name: "Bob Johnson", phone: "987-654-3210", department: "Cardiac", role: "Nurse" },
-    { name: "Carol Williams", phone: "555-123-4567", department: "General", role: "Sanitar" },
-    { name: "David Brown", phone: "444-555-6666", department: "Orthopedics", role: "Dr." },
-    { name: "Emily Clark", phone: "111-222-3333", department: "Cardiac", role: "Nurse" },
-  ];
-
   const [searchTerm, setSearchTerm] = useState("");
 
   // Map role to icons
@@ -30,7 +23,7 @@ const PhoneBook = () => {
   };
 
   // Group contacts by department
-  const groupedContacts = contacts.reduce((acc, contact) => {
+  const groupedContacts = contactsData.reduce((acc, contact) => {
     if (contact.name.toLowerCase().includes(searchTerm.toLowerCase())) {
       if (!acc[contact.department]) {
         acc[contact.department] = [];
@@ -46,7 +39,6 @@ const PhoneBook = () => {
         Phone Book
       </Typography>
 
-      {/* Search Bar */}
       <TextField
         label="Search Contacts"
         variant="outlined"
@@ -60,7 +52,6 @@ const PhoneBook = () => {
         }}
       />
 
-      {/* Nested List by Department */}
       <List>
         {Object.keys(groupedContacts).map((department) => (
           <div key={department}>
